@@ -16,6 +16,7 @@ public class MyQueue {
 
     public MyQueue push(int item){
 
+
         firstStack.push(item);
 
         return this;
